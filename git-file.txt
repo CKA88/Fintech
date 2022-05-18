@@ -4,8 +4,8 @@ Git is a mature, actively maintained open source project originally developed in
 the famous creator of the Linux operating system kernel. 
 
 Just adding somethig new  to test the file
-This about git diff and git diff --color-words command
-Fingers crossed; this works.|:
+This is about git diff and git diff --color-words commands.
+Fingers crossed; I get this righ|:
 
 
 
